@@ -290,4 +290,10 @@ Seluruh data dalam project ini adalah **data sintetis (dummy)** yang digenerate 
 
 ## 👤 Author
 
-Dibuat oleh Ahmad Farid sebagai project portofolio data analytics — end-to-end pipeline dari data generation, SQL analytics dengan DuckDB, hingga dashboard Power BI.
+**Ahmad Farid**
+
+- Email: [ahmad.fariden@gmail.com](mailto:ahmad.fariden@gmail.com)
+- LinkedIn: [linkedin.com/in/ahmadfariden](https://linkedin.com/in/ahmadfariden)
+- GitHub: [github.com/ahmadfariden](https://github.com/ahmadfariden)
+
+Project ini dibuat sebagai portofolio data analytics — end-to-end pipeline dari data generation, SQL analytics dengan DuckDB, hingga dashboard Power BI.
